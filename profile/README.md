@@ -1,6 +1,6 @@
 ![BoringQuantSystems](https://raw.githubusercontent.com/BoringQuantSystems/.github/main/profile/banner.jpg)
 
-**Boring on purpose. Deterministic infrastructure for non-deterministic systems: lean, low-latency, low-memory engines for trading research.**
+**Boring on purpose. Deterministic infrastructure for non-deterministic systems.**
 
 **Engines**
 
