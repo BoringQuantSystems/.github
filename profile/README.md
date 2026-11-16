@@ -1,3 +1,3 @@
 ![BoringQuantSystems](https://raw.githubusercontent.com/BoringQuantSystems/.github/main/profile/banner.jpg)
 
-Boring on purpose.
+**Boring on purpose. Deterministic infrastructure for non-deterministic systems.**
